@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khnikhil (Nikhil Harle), a senior undergrad at Yale studying Intensive Physics. I do research in experimental quantum simulation, and am starting my PhD in Fall 2023.
+- 👋 Hi, I’m @khnikhil (Nikhil Harle), an incoming graduate student in UChicago's Quantum Engineering PhD program. I do research in experimental quantum information, and just graduated from Yale with a BS in physics.
 - 🌱 See my research on [Google Scholar](https://scholar.google.com/citations?user=KiAwX-8AAAAJ&hl=en&oi=ao)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil-harle-9b8a2520b/), or via [email](mailto:nikhil.calvin@gmail.com)
 
